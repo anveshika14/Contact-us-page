@@ -3,7 +3,7 @@ A responsive and user-friendly Contact Us form built using HTML, CSS, and JavaSc
 
 ## 🚀 Features :
 
-📝 Form fields for Name, Email, and Message
+📝 Form fields for Name, Mobile No., Email, and Message
 
 🖌️ Stylish and clean UI using CSS3
 
