@@ -1,7 +1,7 @@
 # Contact-us-page
 A responsive and user-friendly Contact Us form built using HTML, CSS, and JavaScript. This project collects user input (Name, Email, and Message) and validates the data before submission.
 
-## 🚀 Features
+## 🚀 Features :
 
 📝 Form fields for Name, Email, and Message
 
@@ -23,7 +23,7 @@ A responsive and user-friendly Contact Us form built using HTML, CSS, and JavaSc
 
 🧑‍💻 Visual Studio Code
 
-📷 Demo
+## 📷 Demo :
 
 
 https://github.com/user-attachments/assets/0619c421-038f-415f-876c-3bcdcd430280
