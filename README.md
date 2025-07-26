@@ -4,9 +4,13 @@ A responsive and user-friendly Contact Us form built using HTML, CSS, and JavaSc
 ## 🚀 Features :
 
 📝 Form fields for Name, Mobile No., Email, and Message
+
 🖌️ Stylish and clean UI using CSS3
+
 ⚙️ JavaScript-based input validation
+
 📱 Fully responsive on all screen sizes
+
 📤 Submit simulation (front-end only)
 
 ## 🛠️ Tools Used :
