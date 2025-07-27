@@ -1,4 +1,4 @@
-# Contact-us-page
+# Contact-us Page
 A responsive and user-friendly Contact Us form built using HTML, CSS, and JavaScript. This project collects user input (Name, Email, and Message) and validates the data before submission.
 
 ## 🚀 Features :
